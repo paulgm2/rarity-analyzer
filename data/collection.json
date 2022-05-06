@@ -8335,6 +8335,884 @@
 			}
 		],
 		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #248",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/248.png",
+		"dna": "73cd9e26c20df6205f67a9803d693a63085978d6",
+		"id": 248,
+		"date": 1648611899100,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Excited"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Russia"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Halo"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Grin"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #249",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/249.png",
+		"dna": "7bac5de227acf6ef6c4adc27fab766f649d9d75c",
+		"id": 249,
+		"date": 1648610746672,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "3D"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Camouflage Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Rainbow Grin"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #250",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/250.png",
+		"dna": "8cfd7271c0dee6b7845589793cd513a8e023a755",
+		"id": 250,
+		"date": 1648609583109,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Fire"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Camouflage Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Bubble Gum"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #251",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/251.png",
+		"dna": "d3c5b2d6962b0b44e54009b38914064b77910e46",
+		"id": 251,
+		"date": 1648620843240,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Aikido"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Excited"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Kid Band"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Big Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #252",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/252.png",
+		"dna": "65e48128bb58a32967eebc176eee9aa92a6ac540",
+		"id": 252,
+		"date": 1648619523397,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Ninja"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Fire"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Camouflage Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Big Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #253",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/253.png",
+		"dna": "6cd4cfd8460823c39fa76a843fd96bd1cdea70f3",
+		"id": 253,
+		"date": 1648611685617,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "zombie"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Canada"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Spinner Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Mustache"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #254",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/254.png",
+		"dna": "e9e45274a2208459e4fbb548d8a2e2772c89ea7a",
+		"id": 254,
+		"date": 1648609869552,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Dizzy"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Chullo"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #255",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/255.png",
+		"dna": "a18e2c9a7eb5f9011a0f4a149a9eef1c277152d7",
+		"id": 255,
+		"date": 1648621236069,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "TKD"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Crying"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Chullo"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #256",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/256.png",
+		"dna": "7cb14c766ab817fb1a7fc4f099f978c766a30a68",
+		"id": 256,
+		"date": 1648613858687,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Lee"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Wink"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bucket Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Grin"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #257",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/257.png",
+		"dna": "56ef702ad4ef6c4a008a8a449b96b2d89046f3b5",
+		"id": 257,
+		"date": 1648609645460,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Stare"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Headphones"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Big Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #258",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/258.png",
+		"dna": "ba0fcf78aa778a0be5245c3f7edc9f6af869780f",
+		"id": 258,
+		"date": 1648611749725,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Wink"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "France"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Spinner Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Shocked"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #259",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/259.png",
+		"dna": "4fafb2da54d55aa617dcba945895c70fff2e2be2",
+		"id": 259,
+		"date": 1648610306999,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "zombie"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cowboy Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tongue Out"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #260",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/260.png",
+		"dna": "10491469b84c63cea235af4052e169323efadcd6",
+		"id": 260,
+		"date": 1648612191423,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Side Eyes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Ukraine"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Headphones"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #261",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/261.png",
+		"dna": "4ada8e660d801336892f5aa243abdf6c6befd132",
+		"id": 261,
+		"date": 1648611576691,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "3D"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Ukraine"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Beanie"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Unimpressed"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #262",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/262.png",
+		"dna": "2d9531a80712ed0d8856b03eb4fcc71e26671193",
+		"id": 262,
+		"date": 1648611966247,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Crying"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Argentina"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Headphones"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Unimpressed"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #263",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/263.png",
+		"dna": "9fd6a647811540cea1d11a0ed1625c5bc38464db",
+		"id": 263,
+		"date": 1648612143636,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Stare"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "India"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Chullo"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #264",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/264.png",
+		"dna": "3160976ff1e0b220f9e278d84c127d42190cf97d",
+		"id": 264,
+		"date": 1648609777047,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Monocle"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cowboy Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Mustache"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #265",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/265.png",
+		"dna": "f93ba792c91edec6c198df4e02ddc1d27d69bb37",
+		"id": 265,
+		"date": 1648610814488,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Excited"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Baseball Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Mustache"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #266",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/266.png",
+		"dna": "bbccb85104ed60dc17477cd1b449701838b8fc00",
+		"id": 266,
+		"date": 1648613014703,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "France"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Halo"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #267",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/267.png",
+		"dna": "04ad35584aaa3110740e433d8616d1011e17d673",
+		"id": 267,
+		"date": 1648610118407,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Hipster Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Headphones"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Big Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #268",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/268.png",
+		"dna": "d968247fce2c166fbd54743b604f4b1a386c5533",
+		"id": 268,
+		"date": 1648613557248,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Excited"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Japan"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cowboy Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "cigarrette"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #269",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/269.png",
+		"dna": "150fc0f7db38ba677e5496026b310d44a4a6f2a1",
+		"id": 269,
+		"date": 1648621196507,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Aikido"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Wink"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Big Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #270",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/270.png",
+		"dna": "b79abe207406bff9b8d7a3edac05ad64d01e2a3d",
+		"id": 270,
+		"date": 1648621127340,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Lee"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "zombie"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Kid Band"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pipe"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #271",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/271.png",
+		"dna": "581d77b6275d75ffc07a0bf87d4dd62441fca5ce",
+		"id": 271,
+		"date": 1648613057688,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Side Eyes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Russia"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Beanie"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Rainbow Grin"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #272",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/272.png",
+		"dna": "063b8db12bb3a87f2435aad24a29ab1604b03f12",
+		"id": 272,
+		"date": 1648620436336,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Lee"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "zombie"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Baseball Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Big Smile"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Omnidojo #273",
+		"description": "In this limited NFT edition, the creator of Telpacas has depicted Omni, Omnidex.finance mascot, in his Dojo assuming a typical meditative posture. Fun elements such as country flags, martial arts garments, and a couple of items borrowed from the film industry and other successful NFT collections have been incorporated to ensure an overall pleasurable expereience.",
+		"image": "ipfs://QmTv26uo4SFuJyYefh5zrYyjgGxxJwedvcz3GmszRHGfSa/273.png",
+		"dna": "7f4d45939a4cbe999d7d21b33e34df91406a8398",
+		"id": 273,
+		"date": 1648619735732,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Dojo"
+			},
+			{
+				"trait_type": "Character",
+				"value": "Omni"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Karate"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Crying"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Spinner Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Bubble Gum"
+			}
+		],
+		"compiler": "HashLips Art Engine"
 	
 	}
 ]
